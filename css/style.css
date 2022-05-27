@@ -248,13 +248,13 @@ nav ul li a {
     font-family: 'Roboto Flex', sans-serif;
     font-weight: bold;
     font-size: 20px;
-    transition: margin 2s, padding 2s;
+    transition: margin 3s, padding 3gis;
 }
 
 .plataforma__titulo:hover {
     margin: 10px 15px 17px 5px;
     padding: 10px 15px 17px 20px;
-    background-color: rgb(206, 236, 32)
+    background-color: rgb(15, 241, 102)
 }
 
 .emisores__titulo {
@@ -266,13 +266,13 @@ nav ul li a {
     font-family: 'Roboto Flex', sans-serif;
     font-weight: bold;
     font-size: 20px;
-    transition: margin 2s, padding 2s;
+    transition: margin 3s, padding 3s;
 }
 
 .emisores__titulo:hover {
     margin: 10px 15px 17px 5px;
     padding: 10px 15px 17px 20px;
-    background-color: rgb(206, 236, 32)
+    background-color: rgb(15, 241, 102)
 }
 
 .inversores__titulo {
@@ -284,13 +284,13 @@ nav ul li a {
     font-family: 'Roboto Flex', sans-serif;
     font-weight: bold;
     font-size: 20px;
-    transition: margin 2s, padding 2s;
+    transition: margin 3s, padding 3s;
 }
 
 .inversores__titulo:hover {
     margin: 10px 15px 17px 5px;
     padding: 10px 15px 17px 20px;
-    background-color: rgb(158, 182, 25);
+    background-color: rgb(15, 241, 102);
 }
 
 .plataforma {
