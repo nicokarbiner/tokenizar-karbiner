@@ -423,21 +423,7 @@ nav ul li a {
 }
 
 .quienes__somos {
-    border: solid 10px rgb(24, 23, 85);
-    background-color: rgb(100, 113, 151);
-    padding: 5px 10px 12px 15px;
-    margin: 15px 15px 15px 15px;
     margin-top: 10%;
-}
-
-.container__cv {
-    border: solid 10px rgb(24, 23, 85);
-    background-color: rgb(100, 113, 151);
-    padding: 5px 10px 12px 15px;
-    margin: 5px 10px 12px 15px;
-    text-align: center;
-    align-content: normal;
-    text-decoration: none;
 }
 
 .formulario__contacto {
@@ -469,12 +455,6 @@ nav ul li a {
     margin-top: 10%;
     line-height: 1.6;
     text-transform: initial;
-}
-
-.fotoperfil__img {
-    position: relative;
-    left: 40%;
-    top: 40%;
 }
 
 .titulo__articulo {
@@ -543,6 +523,11 @@ iframe {
     display: flex;
     justify-content: center;
 }
+
+.list-group-modificada  {
+    padding-left: 30%;
+}
+
 
 @media screen and (min-width: 320px) and (max-width: 768px) {
 
