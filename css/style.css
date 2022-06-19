@@ -371,7 +371,6 @@ article div h2 {
     margin: 30px 30px 30px 30px;
     margin-top: 0%;
     display: flex;
-    flex-wrap: wrap;
     flex-direction: column;
     align-items: center;
     align-self: center;
@@ -577,5 +576,6 @@ iframe {
 @media screen and (max-width: 480px) {
     .card{
         width: 85%;
+        align-items:stretch;
     }
 }
